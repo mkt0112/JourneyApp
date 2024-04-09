@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project_1</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="places">Places</string>
+    <string name="distance_finder">Distance Finder</string>
+    <string name="delhi_alwar_jaipur_kota_ratlam_ahmedabad_vadoara_surat_vapi_nashik_mumbai_pune_goa">Delhi---Alwar---Jaipur---Kota---Ratlam---Ahmedabad---Vadoara---Surat---Vapi---Nashik---Mumbai---Pune---Goa</string>
+    <string name="stations">Stations</string>
+    <string name="intermedita_stations"><![CDATA[Intermedita Stations -->]]></string>
+    <string name="switch1">Switch</string>
+</resources>
